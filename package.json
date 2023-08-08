@@ -1,0 +1,11 @@
+{
+  "name": "simple-email-server",
+  "version": "1.0.0",
+  "description": "a simple email server written in node.js, axios, express.js, that can be used to send forms to gmail",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dathan Cruz",
+  "license": "ISC"
+}
